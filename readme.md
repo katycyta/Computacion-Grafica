@@ -20,7 +20,7 @@ L  Rotar derecha <br/>
 
 Practica 1 OpenGL
 
-Dibujar linea con punto Medio
-Dibujar linea 3D
-Dibujar poligono
-Transformaciones del Poligono(rotar, escalar, mover)
+Dibujar linea con punto Medio \\
+Dibujar linea 3D \\
+Dibujar poligono \\
+Transformaciones del Poligono(rotar, escalar, mover) \\
